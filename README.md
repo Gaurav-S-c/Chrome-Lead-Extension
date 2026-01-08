@@ -9,7 +9,7 @@ A simple and lightweight **Chrome Extension** that allows users to save and mana
 
 - Save the current tab URL with one click  
 - Manually add leads  
-- View all saved leads in a list  
+- View all saved leads  
 - Delete all leads instantly  
 - Data is stored using Chrome's local storage  
 
